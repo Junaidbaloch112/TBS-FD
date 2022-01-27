@@ -813,7 +813,7 @@ def main():
 
 	print("")
 
-	os.system('xdg-open https://www.facebook.com/𝐒𝐇𝐄𝐈𝐊𝐇-𝐒𝐇𝐀𝐉𝐈𝐃-𝐀𝐇𝐌𝐄𝐃-110703921118360/')
+	os.system('xdg-open https://www.facebook.com/B4LOCH112')
 
 	log_sel()
 
@@ -831,15 +831,15 @@ def log_sel():
 
 	elif sel =="3":
 
-		os.system("xdg-open xdg-open https://www.facebook.com/𝐒𝐇𝐄𝐈𝐊𝐇-𝐒𝐇𝐀𝐉𝐈𝐃-𝐀𝐇𝐌𝐄𝐃-110703921118360/")
+		os.system("xdg-open xdg-open https://www.facebook.com/B4LOCH112")
 
 	elif sel =="4":
 
-		os.system('xdg-open https://www.facebook.com/𝐒𝐇𝐄𝐈𝐊𝐇-𝐒𝐇𝐀𝐉𝐈𝐃-𝐀𝐇𝐌𝐄𝐃-110703921118360/')
+		os.system('xdg-open https://www.facebook.com/B4LOCH112/')
 
 	elif sel =="5":
 
-		os.system('xdg-open https://www.facebook.com/𝐒𝐇𝐄𝐈𝐊𝐇-𝐒𝐇𝐀𝐉𝐈𝐃-𝐀𝐇𝐌𝐄𝐃-110703921118360/')
+		os.system('xdg-open https://www.facebook.com/B4LOCH112')
 
 	elif sel =="6":
 
@@ -899,15 +899,15 @@ def log_select():
 
 	elif sel =="3":
 
-		os.system("xdg-open xdg-open https://www.facebook.com/𝐒𝐇𝐄𝐈𝐊𝐇-𝐒𝐇𝐀𝐉𝐈𝐃-𝐀𝐇𝐌𝐄𝐃-110703921118360/")
+		os.system("xdg-open xdg-open https://www.facebook.com/B4LOCH112")
 
 	elif sel =="4":
 
-		os.system('xdg-open https://www.facebook.com/𝐒𝐇𝐄𝐈𝐊𝐇-𝐒𝐇𝐀𝐉𝐈𝐃-𝐀𝐇𝐌𝐄𝐃-110703921118360/')
+		os.system('xdg-open https://www.facebook.com/B4LOCH112')
 
 	elif sel =="5":
 
-		os.system('xdg-open https://www.facebook.com/𝐒𝐇𝐄𝐈𝐊𝐇-𝐒𝐇𝐀𝐉𝐈𝐃-𝐀𝐇𝐌𝐄𝐃-110703921118360/')
+		os.system('xdg-open https://www.facebook.com/B4LOCH112')
 
 	elif sel =="6":
 
