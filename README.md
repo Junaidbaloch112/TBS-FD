@@ -1,13 +1,13 @@
 # BSN
 
 #### installation
-rm -rf BSN
+r
 
-git clone https://github.com/BIL4L-KH4N/BSN
+git clone
 
-#### For Run
 
-cd BSN
+
+
 
 python bsn.py
 
